@@ -1,7 +1,7 @@
 # Student Performance Predictions AI
 
 ## About This Project
-Hi, I am **Sarthak Bhadauriya**. I built this project to predict student performance using Machine Learning and serve predictions through a Flask web application.
+Hi, I am **Shreya Shukla**. I built this project to predict student performance using Machine Learning and serve predictions through a Flask web application.
 
 My goal with this project was simple:
 - train a reliable ML model on student data
